@@ -1,0 +1,45 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in Pointers:
+* Refernceing THAT SHOWS a derived class pointer can point to on its object of same class but a base class pointer can get the address of derived objects
+
+* Using Array of Pointers
+
+
+
+in Virtual:
+* hOW vIRTUAL FUNCTIONS wORKS,
+* oBJECT SLLICING		
